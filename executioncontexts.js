@@ -25,6 +25,12 @@ Each Execution contexts contains 3 parts
 
 */
 
+/*
+
+Hoisting Rules:
+1. All variables are  hoisted to the top of their scope.
+2. All functions except function expressions are hoisted to the top of the scope.
+*/
 
 //Testing Hoisting  - in Variables.
 
